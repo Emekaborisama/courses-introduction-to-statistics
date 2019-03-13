@@ -1,4 +1,4 @@
-title: Introduction to Statistics
-description: Course description goes here.
+title: Maths for Data Science (Stats and Probability)
+description: This course will give you a good kickstart to Statistics and Probability.
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
